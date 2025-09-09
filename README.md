@@ -24,7 +24,7 @@ A React frontend application built with Adobe React Spectrum and Relay GraphQL c
 
 - Node.js 18+
 - npm or yarn
-- Running TaskManager backend on port 5000
+- Running TaskManager backend on port 5279
 
 ### Installation
 
@@ -52,7 +52,7 @@ The application will be available at `http://localhost:3000`
 
 ### Backend Integration
 
-The frontend is configured to proxy GraphQL requests to `http://localhost:5000/graphql`. Make sure your backend is running on port 5000.
+The frontend is configured to proxy GraphQL requests to `http://localhost:5279/graphql`. Make sure your backend is running on port 5279.
 
 ## Available Scripts
 
